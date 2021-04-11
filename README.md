@@ -8,4 +8,6 @@ I will eventually port this to Windows 93 if anyone asks about it
 
 This is also probably the first mention of Windows 96 on github in a repo
 
-To use it, download Icedog96.html and Icedog96.link, navigate to C:/user/desktop, then click tools, then upload, then select the .link file you download, then navigate back to C:/ then go to local, then click tools, then upload, then select the html file you download
+To use it, download files from the Windows 96 folder, navigate to C:/user/desktop, then click tools, then upload, then select the .link file you download, then navigate back to C:/ then go to local, then click tools, then upload, then select the html file you download
+
+For the Windows 93 Edition, Just download the file and drag it onto the windows 93 desktop
