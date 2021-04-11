@@ -1,5 +1,5 @@
 # Icedog96
-A simple web browser for Windows 96 (windows96.net)
+A simple web browser for Windows 96 (windows96.net) and Windows 93 (windows93.net)
 
 If you don't know what Windows 96 is, it's a JS based parody of Windows (Much like Windows 93)
 
